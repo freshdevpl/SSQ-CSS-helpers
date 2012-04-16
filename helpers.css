@@ -1,0 +1,46 @@
+/* 
+    Document   : helpers.css
+    Created on : 2012-04-16, 13:22:43
+    Author     : wojciech matyskiewicz
+    Description: Helpers for CSS
+*/
+
+
+/*
+    Styles for body section
+*/
+body
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+/*
+    Clear floats
+*/
+
+.clear
+{
+    clear: both;
+}
+
+
+/*
+    Position
+*/
+
+.position-relative
+{
+    position: relative;
+}
+
+.position-absolute
+{
+    position: absolute;
+}
+
+.position-fixed
+{
+    position: fixed;
+}
